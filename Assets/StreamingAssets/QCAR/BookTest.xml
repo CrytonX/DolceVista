@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TTOTS_Book_Trigger_Boat" size="2.000000 3.000000" />
+    <ImageTarget name="TTOTS_Book_Trigger_Room" size="1.000000 1.500000" />
+    <ImageTarget name="stones_scaled" size="0.500000 0.349609" />
+  </Tracking>
+</QCARConfig>
