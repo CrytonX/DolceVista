@@ -126,8 +126,8 @@ PlayerSettings:
   xboxOneDisableKinectGpuReservation: 0
   protectGraphicsMemory: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 9
-  AndroidPreferredInstallLocation: 1
+  AndroidMinSdkVersion: 19
+  AndroidPreferredInstallLocation: 0
   aotOptions: 
   apiCompatibilityLevel: 2
   stripEngineCode: 1
@@ -436,7 +436,7 @@ PlayerSettings:
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
     4: VUFORIA_IOS_SETTINGS
-    7: VUFORIA_ANDROID_SETTINGS;AVPROVIDEO_DISABLE_DEBUG_GUI
+    7: VUFORIA_ANDROID_SETTINGS;AVPROVIDEO_DISABLE_DEBUG_GUI;AVPROVIDEO_DISABLE_LOGGING
     14: VUFORIA_WSA_SETTINGS
   platformArchitecture: {}
   scriptingBackend:
@@ -537,5 +537,5 @@ PlayerSettings:
     Unity_Ads: 0
   cloudProjectId: df3bd850-aeae-46bd-a899-1d2520b7d9ee
   projectName: DolceVistaTest
-  organizationId: crytonx
+  organizationId: munster-studios
   cloudEnabled: 0

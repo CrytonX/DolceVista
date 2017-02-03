@@ -10,7 +10,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: b0c6deb009f7cb743b176e4a4c19fe72, type: 3}
   m_ShaderKeywords: HIGH_QUALITY STEREO_NONE _EMISSION
   m_LightmapFlags: 1
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
@@ -48,7 +48,7 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 07e173d69dac0354d9519a1bb748130c, type: 3}
+        m_Texture: {fileID: 2800000, guid: ed7e68df06109654bafc86b8d1b44925, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
